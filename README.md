@@ -5,16 +5,6 @@ I'm interested in system architecture and backend development.
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
----
-
-## 📈 GitHub Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ens-Dev/Ens-Dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ens-Dev/Ens-Dev/output/github-contribution-grid-snake.svg">
-  <img alt="Github Snake" src="https://raw.githubusercontent.com/Ens-Dev/Ens-Dev/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ## 📊 GitHub Stats:
 <p align="left">
@@ -31,7 +21,11 @@ I'm interested in system architecture and backend development.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ens-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ens-Dev/Ens-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ens-Dev/Ens-Dev/output/github-contribution-grid-snake.svg">
+  <img alt="Github Snake" src="https://raw.githubusercontent.com/Ens-Dev/Ens-Dev/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <a href="https://github.com/Ens-Dev">
